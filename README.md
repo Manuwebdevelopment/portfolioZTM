@@ -1,3 +1,3 @@
 # portfolio
-Sample website!
+Sample website
 From ZTM Course
