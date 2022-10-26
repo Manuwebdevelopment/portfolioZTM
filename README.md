@@ -1,4 +1,3 @@
-# portfo
+# portfolio
 Sample website!
-
-*visist https://zerotomastery.io/ for more*
+From ZTM Course
